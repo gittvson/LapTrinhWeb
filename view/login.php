@@ -14,7 +14,7 @@
         <tr>
             <td colspan="5"><img id="img-banner" alt=""></td>
         </tr>
-      <tr></tr>
+      <tr><a href="https://github.com/gittvson/LapTrinhWeb.git">Link Source Code</a></tr>
             <tr>
                 <td><a href="index.php?ctrl=screenuser&func=index"><button class="btn btn-danger">Trang chủ</button></a></td>
                 <td>
